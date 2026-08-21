@@ -1,6 +1,6 @@
 ---
 name: remotion-docs
-description: Search Remotion documentation
+description: Use when current Remotion documentation or API behavior must be found and verified. Do not use instead of a task-specific skill unless documentation lookup is needed.
 version: 4.0.514
 ---
 

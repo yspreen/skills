@@ -1,6 +1,6 @@
 ---
 name: remotion-create
-description: Create a new Remotion video
+description: Use when creating a new Remotion project, video, or composition, including in an existing project. Do not use for routine edits, previews, renders, or upgrades.
 version: 4.0.514
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: remotion-maps
-description: Remotion Map animation knowledge
+description: Use for Remotion videos with maps, routes, geographic markers, GeoJSON, or 3D terrain flyovers. Do not use for non-map visuals or location data outside Remotion.
 version: 4.0.514
 ---
 

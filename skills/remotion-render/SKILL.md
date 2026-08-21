@@ -1,6 +1,6 @@
 ---
 name: remotion-render
-description: Export a Remotion video
+description: Use when exporting a Remotion composition as a video or still, including transparent output. Do not use for Studio previews, embedded Players, or rendering infrastructure in apps.
 version: 4.0.514
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: remotion-interactivity
-description: Structure Remotion markup for interactivity
+description: Use when writing Remotion markup that Studio must select, drag, resize, rotate, or edit as styles and keyframes. Do not use for Player input or React event handling.
 version: 4.0.514
 ---
 

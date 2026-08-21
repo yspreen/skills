@@ -1,6 +1,6 @@
 ---
 name: remotion-multimedia
-description: Interacting with Mediabunny
+description: Use for browser-side audio or video inspection and processing with Mediabunny, including duration and dimensions. Do not use for Remotion rendering or placing media in compositions.
 version: 4.0.514
 ---
 

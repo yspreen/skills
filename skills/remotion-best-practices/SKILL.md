@@ -1,6 +1,6 @@
 ---
 name: remotion-best-practices
-description: Router for all Remotion skills
+description: Use for any Remotion task to select the relevant specialized skill. Do not use as the sole guide when a task-specific Remotion skill applies.
 version: 4.0.514
 ---
 

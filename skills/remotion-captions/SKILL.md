@@ -1,6 +1,6 @@
 ---
 name: remotion-captions
-description: Transcribing, displaying and animating captions
+description: Use for transcribing, importing, displaying, or animating timed captions and subtitles in Remotion. Do not use for voiceovers, generic text overlays, or unrelated audio processing.
 version: 4.0.514
 ---
 

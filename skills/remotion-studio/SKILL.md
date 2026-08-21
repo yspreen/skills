@@ -1,6 +1,6 @@
 ---
 name: remotion-studio
-description: Preview a Remotion video
+description: Use when launching, opening, or configuring Remotion Studio for local previews. Do not use for final video exports, still renders, or embedding Player in an app.
 version: 4.0.514
 ---
 

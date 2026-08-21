@@ -1,6 +1,6 @@
 ---
 name: remotion-upgrade
-description: Upgrade Remotion, and related packages
+description: Use when upgrading Remotion, matching Mediabunny packages, and installed Remotion skills. Do not use for adding one dependency or changing application code without a version upgrade.
 version: 4.0.514
 ---
 

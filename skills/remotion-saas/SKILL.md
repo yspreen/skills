@@ -1,6 +1,6 @@
 ---
 name: remotion-saas
-description: Build an app with Remotion
+description: Use when building an app or SaaS with Remotion Player, render APIs, serverless rendering, or framework integration. Do not use for standalone compositions or local CLI exports.
 version: 4.0.514
 ---
 
