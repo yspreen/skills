@@ -222,6 +222,10 @@ See [text-highlights.md](text-highlights.md) for text highlights (highlight mark
 
 See [multi-scene-video.md](multi-scene-video.md) if planning to make a video with multiple subsequent scenes.
 
+## Motion design and promo polish
+
+See [motion-design.md](motion-design.md) for pacing, reusable motion patterns, safe zones, a theme template, visual verification, and ways to improve a flat or generic promo. Treat its patterns as options based on the brief, not universal rules.
+
 ## Voiceover
 
 See [voiceover.md](voiceover.md) for adding an AI-generated voiceover to Remotion compositions using ElevenLabs TTS.
@@ -263,7 +267,7 @@ See [./3d.md](./3d.md) for 3D content in Remotion using Three.js and React Three
 
 ## Sound effects
 
-When needing to use sound effects, load the [./sfx.md](./sfx.md) file for more information.
+When the user requests sound effects, load [sfx.md](sfx.md). Do not add or generate audio when audio is outside the request.
 
 ## Audio visualization
 

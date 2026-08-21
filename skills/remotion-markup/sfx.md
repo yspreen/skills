@@ -49,3 +49,13 @@ The following sound effects are available:
 - `https://remotion.media/record-scratch.wav`
 
 For more sound effects, search the internet. A good resource is https://github.com/kapishdima/soundcn/tree/main/assets.
+
+## Generate a basic local kit
+
+Only generate sound effects when the user requested audio and suitable assets are unavailable. Run the included dependency-free generator with an explicit output directory:
+
+```bash
+node /absolute/path/to/remotion-markup/scripts/generate-basic-sfx.mjs public/sfx
+```
+
+It creates `whoosh.wav`, `click.wav`, and `impact.wav`. It refuses to overwrite existing files. Preview the sounds and adjust their timing and volume for the composition instead of treating them as defaults.

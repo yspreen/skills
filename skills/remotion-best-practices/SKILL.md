@@ -22,6 +22,10 @@ If no Remotion project currently exists, load [Create a new Remotion project](./
 
 If you are writing Remotion React Markup, load [Remotion Markup Best Practices](./remotion-markup/REFERENCE.md)
 
+## Motion design and promo polish
+
+For pacing, reusable motion patterns, safe zones, visual verification, a theme template, or fixing a flat or generic promo, load [Motion design](./remotion-markup/motion-design.md).
+
 ## Maps
 
 For static maps, animated routes and markers, geographic explainers, Mapbox, MapLibre, MapTiler, GeoJSON, or 3D geographic flyovers, load [Remotion Maps](./remotion-maps/REFERENCE.md).
